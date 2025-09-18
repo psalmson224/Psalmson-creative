@@ -199,3 +199,13 @@ footer {
   width: 35px;
   height: 35px;
 }
+/* Showcase Section */
+#showcase {
+  min-height: 400px;
+  background: url('showcase.jpg') no-repeat center center/cover;
+  color: #fff;
+  text-align: center;
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+}
